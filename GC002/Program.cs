@@ -60,15 +60,7 @@ namespace GC002
 
             Console.WriteLine("Конец метода Test4");
             Console.WriteLine();
-        } // вызов метода private static void Test()
-{
-    using Person tom = new Person { Name = "Tom" };
-    using Person bob = new Person { Name = "Bob" };
-
-Console.WriteLine($"Person1: {tom.Name}    Person2: {bob.Name}");
-
-Console.WriteLine("Конец метода Test");
-} // вызов метода Dispose для объектов bob и tom для объектов bob и tom
+        } // вызов метода Dispose для объектов bob и tom
 
     }
     public class Person : IDisposable
