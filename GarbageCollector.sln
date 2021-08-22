@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarbageCollector", "Garbage
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GC002", "GC002\GC002.csproj", "{03BE93B2-60C4-4AA6-933F-448E00349A42}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GC003", "GC003\GC003.csproj", "{76A23336-0B47-4A78-9A23-34DB5989A940}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{03BE93B2-60C4-4AA6-933F-448E00349A42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03BE93B2-60C4-4AA6-933F-448E00349A42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03BE93B2-60C4-4AA6-933F-448E00349A42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76A23336-0B47-4A78-9A23-34DB5989A940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76A23336-0B47-4A78-9A23-34DB5989A940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76A23336-0B47-4A78-9A23-34DB5989A940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76A23336-0B47-4A78-9A23-34DB5989A940}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
